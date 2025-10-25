@@ -35,6 +35,19 @@
 
 ## 💼 Experience
 
+### 📊 Data Analyst Intern — *India Exposition Mart Ltd. (IEML)*  
+*Aug 2025 – Present | Greater Noida*  
+- Created dashboards and reports using Excel, SQL, and BI tools to support data-driven decisions.  
+- Automated data scraping and business information extraction with Python and VBA.  
+- Developed and maintained databases, ensuring data accuracy and accessibility.  
+- Built a data enrichment tool to streamline and optimize data handling for the analytics team.
+
+### 🎨 Website Designer — *FLEXIDROP*  
+*Oct 2024 – Nov 2024 | Remote*  
+- Designed responsive and user-friendly UI to enhance user experience.  
+- Collaborated with the team to align the design with business goals.  
+- Optimized website performance, reducing load time and improving responsiveness.
+
 ### 🧠 Machine Learning Intern — *Cognifyz Technologies*  
 *Oct 2024 – Nov 2024 | Remote*  
 - Developed ML models including preprocessing, training, and evaluation.  
@@ -46,6 +59,7 @@
 - Enhanced AI response accuracy through rigorous evaluation and refinement.  
 - Contributed to large-scale training dataset development.  
 - Conducted data-driven insights to improve NLP model behavior and alignment.
+
 
 ---
 
