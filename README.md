@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Sharma</h1>
-<h3 align="center">B.Tech CSE (AI & ML) | Data Science & Deep Learning Enthusiast | Python Developer | Data Analyst|</h3>
+<h3 align="center">B.Tech CSE (AI & ML) | Data Science & Deep Learning Enthusiast | Python Developer | Data Analyst |</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca526b0483e1d08a494b1b6f0d.gif" width="400" alt="coding gif" />
