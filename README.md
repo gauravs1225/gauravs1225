@@ -77,13 +77,13 @@
 ### 🌐 Responsive Portfolio Website  
 - Built with **HTML, CSS, JavaScript**, fully responsive & user-friendly  
 - Deployed on **Vercel**, version-controlled via **Git & GitHub**  
-- [🔗 Live Website](https://your-portfolio-link.com)
+- [🔗 Live Website](https://gauravs12.vercel.app/)
 
 ### 📊 Sales Performance Dashboard — Power BI  
 - Built end-to-end **Power BI dashboard** with **Python (data cleaning)** & **SQL (data extraction)**  
 - ETL pipeline: **CSV → SQL → Power BI** with automated reporting workflow  
 - Included **KPI cards, trend analysis, heatmaps, and drill-through navigation**  
-- [🔗 GitHub Repo](https://github.com/your-username/your-repo-name)
+- [🔗 GitHub Repo](https://github.com/jaykells/PowerBI-Sales-Dashboard)
 
 
 ---
