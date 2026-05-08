@@ -36,7 +36,7 @@
 ## 💼 Experience
 
 ### 📊 Data Analyst Intern — *India Exposition Mart Ltd. (IEML)*  
-*Aug 2025 – Present | Greater Noida*  
+*Aug 2025 – feb 2026 | Greater Noida*  
 - Created dashboards and reports using Excel, SQL, and BI tools to support data-driven decisions.  
 - Automated data scraping and business information extraction with Python and VBA.  
 - Developed and maintained databases, ensuring data accuracy and accessibility.  
